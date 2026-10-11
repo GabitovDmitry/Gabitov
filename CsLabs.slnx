@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="ProgramTests/ProgramTests.csproj" Id="1b3c085b-48f4-412d-be6e-81fdd7bc885a" />
   <Project Path="sem-1-lab-01-server-monitoring/sem-1-lab-01-server-monitoring.csproj" />
 </Solution>
