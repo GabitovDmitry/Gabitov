@@ -4,7 +4,7 @@
     {
         const int Width = 52; // внутренняя ширина карточки
 
-        static void Main()
+        static void Main(string[] args)
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
